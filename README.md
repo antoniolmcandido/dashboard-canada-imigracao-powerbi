@@ -8,7 +8,7 @@ Trata-se de uma análise da imigração para o Canadá durante os anos de 1980 a
 
 ## Assista a aula e aprenda a fazer esse dashboard aqui
 
--   [https://youtu.be/PAamhFn9qBQ](https://youtu.be/PAamhFn9qBQ)
+-   [https://youtu.be/6WT30BU4XNU](https://youtu.be/6WT30BU4XNU)
 
 ## Tecnologias Utilizadas
 
